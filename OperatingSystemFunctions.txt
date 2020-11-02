@@ -1,0 +1,1 @@
+One of the most common OS functions is moving files. The OS, when instructed to move a file, is given input on what file to move, and where to move it to. Depending on the OS, it might directly move all the data or simply change the internal reference it uses to locate the file. 
